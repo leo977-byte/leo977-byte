@@ -1,14 +1,10 @@
 ---
 
-# 👋 Hi there, I'm Nour Hany Sabry
-
-I am a passionate Software Engineering student, Full-Stack Developer, and Data Intern. I bridge the gap between robust software architecture, data-driven insights, and agile execution. Whether it's optimizing an algorithmic board game in C++ or designing database schemas for modern web apps, I love building clean, efficient, and impactful solutions.
-
----
+# Hellooo , I'm Nour Hany Sabry
 
 ## 💼 Current Experience
 
-* **Data Entry & Data Analysis Intern** | *Hospitals in UAE* (Remote/Hybrid)
+* **Data Entry & Data Analysis Intern** | *llh Hospitals in UAE* (Remote/Hybrid)
 * Processing, cleaning, and analyzing hospital datasets to extract actionable operational insights.
 * Leveraging analytical workflows to ensure high data integrity and structural accuracy in healthcare environments.
 
